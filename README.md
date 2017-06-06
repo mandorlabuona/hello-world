@@ -1,2 +1,4 @@
 # hello-world
-un altro repository
+Hi everybody,
+I have built an amazing automated world. 
+see you next time.  :-)
